@@ -1,5 +1,5 @@
 {
-  "name": "estoque-upa",
+  "name": "controle-de-estoque",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.95.3",
     "@tailwindcss/postcss": "^4.1.18",
     "@tailwindcss/vite": "^4.1.18",
+    "fix": "^0.0.3",
     "lucide-react": "^0.563.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
